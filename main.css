@@ -1,3 +1,20 @@
 body {
-  background-color: powderblue;
+  background-color: antiquewhite;
+}
+article {
+  padding: 10px;
+}
+
+#articleOne {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border: 1px dotted brown;
+}
+
+#articleTwo {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  border: 5px dotted rgb(210, 60, 30);
+}
+
+h2 {
+  color: darkslateblue;
 }
